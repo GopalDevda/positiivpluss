@@ -1,0 +1,533 @@
+CRITICAL - 2023-10-19 16:08:04 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'js', 'bootstrap.min.j...')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:04 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'css', 'bootstrap.min.c...')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:04 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'header.css')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:08 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'xls.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:09 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'jpg.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'doc.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'pdf.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-19 16:08:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:13 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:13 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:24 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:24 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:47 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:47 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:47 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:47 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:47 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:47 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:48 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:48 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:48 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:48 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:48 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:05:51 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:05:51 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:14:40 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:14:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:17 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:17 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('180', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:19 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:19 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-19 17:16:20 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-19 17:16:20 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('32', '8', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-10-19 17:30:15 --> copy(public/uploads/supplier_document/1691865059_7b394fd0d9bfa3e9579d.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'copy(public/upl...', '/var/www/html/a...', 3092, Array)
+#1 /var/www/html/app/Controllers/Controlwork.php(3092): copy('public/uploads/...', 'public/uploads/...')
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->addAnswerQuestion()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

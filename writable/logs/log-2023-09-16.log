@@ -1,0 +1,317 @@
+ERROR - 2023-09-16 11:16:40 --> Table 'positiiv_db.madhyapradesh' doesn't exist
+CRITICAL - 2023-09-16 11:16:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(136001)
+#1 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(134001)
+#2 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(132001)
+#3 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(130001)
+#4 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(128001)
+#5 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(126001)
+#6 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(124001)
+#7 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(122001)
+#8 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(120001)
+#9 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(118001)
+#10 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(116001)
+#11 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(114001)
+#12 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(112001)
+#13 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(110001)
+#14 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(108001)
+#15 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(106001)
+#16 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(104001)
+#17 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(102001)
+#18 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(100001)
+#19 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(98001)
+#20 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(96001)
+#21 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(94001)
+#22 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(92001)
+#23 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(90001)
+#24 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(88001)
+#25 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(86001)
+#26 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(84001)
+#27 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(82001)
+#28 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(80001)
+#29 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(78001)
+#30 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(76001)
+#31 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(74001)
+#32 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(72001)
+#33 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(70001)
+#34 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(68001)
+#35 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(66001)
+#36 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(64001)
+#37 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(62001)
+#38 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(60001)
+#39 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(58001)
+#40 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(56001)
+#41 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(54001)
+#42 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(52001)
+#43 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(50001)
+#44 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(48001)
+#45 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(46001)
+#46 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(44001)
+#47 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(42001)
+#48 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(40001)
+#49 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(38001)
+#50 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(36001)
+#51 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(34001)
+#52 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(32001)
+#53 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(30001)
+#54 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(28001)
+#55 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(26001)
+#56 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(24001)
+#57 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(22001)
+#58 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(20001)
+#59 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(18001)
+#60 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(16001)
+#61 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(14001)
+#62 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(12001)
+#63 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(10001)
+#64 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(8001)
+#65 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(6001)
+#66 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(4001)
+#67 /var/www/html/app/Controllers/MarketPlace.php(427): App\Controllers\MarketPlace->csvfile_data(2001)
+#68 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->csvfile_data('1')
+#69 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#70 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#71 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#72 {main}
+ERROR - 2023-09-16 11:16:40 --> Table 'positiiv_db.madhyapradesh' doesn't exist
+CRITICAL - 2023-09-16 11:16:40 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(100001)
+#1 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(98001)
+#2 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(96001)
+#3 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(94001)
+#4 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(92001)
+#5 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(90001)
+#6 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(88001)
+#7 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(86001)
+#8 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(84001)
+#9 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(82001)
+#10 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(80001)
+#11 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(78001)
+#12 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(76001)
+#13 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(74001)
+#14 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(72001)
+#15 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(70001)
+#16 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(68001)
+#17 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(66001)
+#18 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(64001)
+#19 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(62001)
+#20 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(60001)
+#21 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(58001)
+#22 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(56001)
+#23 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(54001)
+#24 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(52001)
+#25 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(50001)
+#26 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(48001)
+#27 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(46001)
+#28 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(44001)
+#29 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(42001)
+#30 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(40001)
+#31 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(38001)
+#32 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(36001)
+#33 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(34001)
+#34 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(32001)
+#35 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(30001)
+#36 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(28001)
+#37 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(26001)
+#38 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(24001)
+#39 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(22001)
+#40 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(20001)
+#41 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(18001)
+#42 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(16001)
+#43 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(14001)
+#44 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(12001)
+#45 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(10001)
+#46 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(8001)
+#47 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(6001)
+#48 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(4001)
+#49 /var/www/html/app/Controllers/MarketPlace.php(426): App\Controllers\MarketPlace->csvfile_data(2001)
+#50 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->csvfile_data('1')
+#51 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#52 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#53 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#54 {main}
+CRITICAL - 2023-09-16 13:51:01 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 /var/www/html/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/a...')
+#1 /var/www/html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/system/CodeIgniter.php(885): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2023-09-16 13:51:48 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 13:51:48 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-16 13:51:54 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 13:51:54 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-16 13:52:37 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 13:52:37 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-16 14:22:09 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 14:22:09 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(76): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-16 14:22:12 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 14:22:12 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(76): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-16 14:22:32 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 14:22:32 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(76): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-16 14:22:33 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 14:22:33 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(76): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-16 14:22:36 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2023-09-16 14:22:36 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(76): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-09-16 15:18:11 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:18:28 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:18:39 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:22:11 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:22:25 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:22:50 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-16 15:23:00 --> Argument 2 passed to view() must be of the type array, null given, called in /var/www/html/app/Controllers/MarketPlace.php on line 67
+#0 /var/www/html/app/Controllers/MarketPlace.php(67): view('brand/market_pl...', NULL)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-09-16 16:11:01 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2023-09-16 16:11:01 --> Call to a member function paginate() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-16 16:11:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2023-09-16 16:11:06 --> Call to a member function paginate() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:11:26 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::paginate()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:11:57 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::paginate()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:13:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::paginate()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:16:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::paginate()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:33:28 --> Cannot use object of type CodeIgniter\Pager\Pager as array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-16 16:41:11 --> fopen(https://positiivplus.com/public/state-data/Maharashtra.json): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(https://p...', '/var/www/html/a...', 321, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(321): fopen('https://positii...', 'w')
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-09-16 16:42:43 --> fopen(https://positiivplus.com/public/state-data/Maharashtra.json): failed to open stream: HTTP wrapper does not support writeable connections
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(https://p...', '/var/www/html/a...', 321, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(321): fopen('https://positii...', 'w')
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('L22210MH1995PLC...')
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

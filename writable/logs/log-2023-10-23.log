@@ -1,0 +1,6 @@
+CRITICAL - 2023-10-23 17:50:10 --> Class 'App\Controllers\madhypradesh' not found
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->view_bookmarks()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

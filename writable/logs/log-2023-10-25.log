@@ -1,0 +1,761 @@
+ERROR - 2023-10-25 12:10:28 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:10:28 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:10:29 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:10:29 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:10:29 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:10:29 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:10:33 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:10:33 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:12:46 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:12:46 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:12:52 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:12:52 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:13:38 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:13:38 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:14:21 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:14:21 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-10-25 12:14:35 --> Call to a member function findAll() on array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:25:53 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:25:53 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:26:31 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:26:31 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:26:32 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:26:32 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:26:34 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:26:34 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(179): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:27:24 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:27:24 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:27:37 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:27:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:27:37 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:27:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:27:40 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:27:40 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:37:04 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:04 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:05 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:05 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:05 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:05 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:06 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 12:37:06 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+CRITICAL - 2023-10-25 12:37:07 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Environment->newenvironment('17')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Environment))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 12:37:53 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:37:53 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:37:58 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:37:58 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:38:03 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:38:03 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:38:06 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:38:06 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:38:15 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:38:15 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:38:37 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:38:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:38:43 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:38:43 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:44:37 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:44:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 12:44:37 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 12:44:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(100, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(162): CodeIgniter\BaseModel->findAll(100)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-10-25 12:49:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'css', 'bootstrap.min.c...')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'js', 'bootstrap.min.j...')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('assets', 'header.css')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:22 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'xls.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:23 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'jpg.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:23 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'pdf.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:23 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'icons', 'doc.png')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:23 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:24 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:24 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-10-25 12:49:24 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/OnSite.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 157, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\OnSite->assessmentreport_check('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OnSite))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:45 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:45 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('9', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 13:15:50 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-25 13:15:50 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->answerQuestion('8', '8', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-25 14:48:02 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:48:02 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(174): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:48:04 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:48:04 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(174): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:52:05 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:52:05 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(177): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-10-25 14:52:52 --> Call to undefined method App\Models\Allcompanydata::finddAll
+#0 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\Model->__call('finddAll', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-10-25 14:53:09 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:53:09 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:53:36 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:53:36 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:53:45 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:53:45 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:54:29 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:54:29 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:54:44 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:54:44 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:54:59 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:54:59 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:55:18 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:55:18 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(158): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:56:59 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:56:59 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:57:29 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:57:29 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:58:35 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:58:35 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:58:44 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:58:44 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 14:58:54 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 14:58:54 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:00:47 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:00:47 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:00:50 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:00:50 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(159): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:05:48 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:05:48 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(161): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:06:11 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:06:11 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(161): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:06:15 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:06:15 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(161): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:06:18 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:06:18 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(161): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:06:28 --> Column 'status' in where clause is ambiguous
+CRITICAL - 2023-10-25 15:06:28 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(161): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-10-25 15:16:56 --> Call to a member function findAll() on array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-10-25 15:17:02 --> Call to a member function findAll() on array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-10-25 15:43:59 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Views/brand/view_bookmarks.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 181, Array)
+#1 /var/www/html/system/View/View.php(230): include('/var/www/html/a...')
+#2 /var/www/html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/html/system/Common.php(1271): CodeIgniter\View\View->render('brand/view_book...', Array, true)
+#4 /var/www/html/app/Controllers/MarketPlace.php(255): view('brand/view_book...', Array)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->view_bookmarks()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-10-25 15:44:30 --> Unknown column 'madhyapradesh.id' in 'field list'
+CRITICAL - 2023-10-25 15:44:30 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(253): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->view_bookmarks()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 15:44:40 --> Unknown column 'madhyapradesh.id' in 'field list'
+CRITICAL - 2023-10-25 15:44:40 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(253): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->view_bookmarks()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-25 18:45:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-25 18:45:11 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(277): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

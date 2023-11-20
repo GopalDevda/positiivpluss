@@ -1,0 +1,13 @@
+ERROR - 2023-09-28 12:57:34 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-28 12:57:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/SupplierAuth.php(419): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\SupplierAuth->login()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupplierAuth))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

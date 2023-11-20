@@ -1,0 +1,139 @@
+CRITICAL - 2023-09-21 11:48:16 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 /var/www/html/system/Autoloader/Autoloader.php(273): CodeIgniter\Autoloader\Autoloader->includeFile('/var/www/html/a...')
+#1 /var/www/html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /var/www/html/system/CodeIgniter.php(885): class_exists('\\App\\Controller...', true)
+#5 /var/www/html/system/CodeIgniter.php(421): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-09-21 11:49:45 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/system/Model.php on line 800
+#0 /var/www/html/system/Model.php(800): CodeIgniter\Database\BaseBuilder->like('company_name', NULL)
+#1 /var/www/html/app/Controllers/MarketPlace.php(100): CodeIgniter\Model->__call('like', Array)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:09 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:10 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:10 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-09-21 13:31:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->start_footprint('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-21 13:31:17 --> file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;sensor=false&amp;key=AIzaSyBB5u7MvYBi9uXF9ncpvJZbrW55a58QQMU): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', '/var/www/html/a...', 870, Array)
+#1 /var/www/html/app/Controllers/Quantitative.php(870): file_get_contents('https://maps.go...')
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->getAirportByLocation_ok()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-09-21 13:31:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:26 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:27 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-09-21 13:31:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and f.status=1' at line 1
+CRITICAL - 2023-09-21 13:31:28 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Quantitative->footprint_report('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Quantitative))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

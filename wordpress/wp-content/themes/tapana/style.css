@@ -1,0 +1,95 @@
+/*
+Theme Name: Tapana
+Theme URI: https://wpkoi.com/tapana-wpkoi-wordpress-theme/
+Template: martanda
+Author: wpkoithemes
+Author URI: https://wpkoi.com
+Description: Tapana is a child theme for Martanda WPKoi theme. You can find theme demos at wpkoi.com. Tapana has a clean, smart style and unique design for portfolio, business or agency content. The theme is multipurpose, so if You like the style, You can use it to represent Your art, business, an event, show Your portfolio, start a blog, start a webshop and sell Your products etc. The demos use Elementor drag and drop page builder, WooCommerce shop module and Contact Form 7 message sender plugins. The premium demo uses the Tapana premium plugin also. Tapana has an easy to use admin with a lot of customizer functions and block based template parts so You can build Your dream without coding knowledge. The theme is responsive so looks good on almost every devices. Build You site with Tapana Theme and share it with the world! You can also find a documentation with an install guide and a tutorial for the screenshot look on wpkoi.com/docs.
+Requires at least: 6.1
+Tested up to: 6.3
+Requires PHP: 7.0
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: tapana
+Tags: one-column, blog, e-commerce, flexible-header, full-width-template, custom-background, custom-colors, sticky-post, translation-ready, featured-images, editor-style
+
+*/
+.tapana-title-holder h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.wp-block-navigation .has-child .wp-block-navigation__submenu-container>.wp-block-navigation-item>.wp-block-navigation-item__content {
+    padding: 5px 10px;
+}
+.site-info {
+    padding: 1vw 4vw;
+}
+.site-header .wp-block-site-title {
+    line-height: var(--martanda--site-title-font-size);
+}
+.site-info {
+    text-align: left;
+}
+.martanda-side-left-text-content {
+    white-space: nowrap;
+}
+.wpkoi-elements-adv-accordion .wpkoi-elements-accordion-list .wpkoi-elements-accordion-header {
+    text-align: center;
+    display: block;
+}
+.wpkoi-elements-adv-accordion .wpkoi-elements-accordion-list .wpkoi-elements-accordion-content {
+    text-align: center;
+}
+.wp-block-separator.has-background.footer-separator {
+    height: 3px;
+}
+.wp-block-navigation .has-child:not(.open-on-click):hover>.wp-block-navigation__submenu-container {
+    min-width: 220px;
+}
+table, td, th {
+    border-color: rgba(255,255,255,.2) !important;
+}
+.wp-block-social-links.is-style-pill-shape .wp-social-link a {
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+}
+.overflow-hidden {
+    overflow: hidden;
+}
+.tapana-socials .wp-social-link{
+    border: 2px solid #000;
+}
+.tapana-radius {
+    border-radius: 10px;
+}
+.tapana-noise{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+    pointer-events: none;
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    -webkit-animation: tapananoise .2s steps(1) infinite;
+    animation: tapananoise .2s steps(1) infinite;
+    transform-origin: 50% 50%;
+    overflow: hidden;
+    z-index: 9998;
+}
+@keyframes tapananoise{
+    0%{
+        transform:scale(1) 
+    }
+    25%{
+        transform:scaleX(-2) 
+    }
+    50%{
+        transform:scale(-1) 
+    }
+    75%{
+        transform:scaleY(-1) 
+    }
+}

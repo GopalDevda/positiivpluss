@@ -1,0 +1,5 @@
+run this is cmd to use fast api
+uvicorn app:app --reload
+
+then visit 
+http://127.0.0.1:8000/docs

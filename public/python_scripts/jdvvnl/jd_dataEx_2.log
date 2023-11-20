@@ -1,0 +1,67 @@
+310431031615
+Sep_2023
+2023-09-03
+65131.00
+01/06/2023
+01/08/2023
+6115
+15.00
+
+
+-----------------------------------
+File with new filename already exists. Skipping renaming.
+Jodhpur_310431031615_Sep_2023.pdf
+310431031615_Sep_2023
+(485,)
+ID: 485
+Data with bill_no 'Jodhpur_310431031615_Sep_2023.pdf' already exists. Skipping insert.
+310223057447
+Oct_2023
+2023-10-16
+38221.00
+01/09/2023
+01/10/2023
+3440
+24.00
+
+0.955
+-----------------------------------
+File with new filename already exists. Skipping renaming.
+Jodhpur_310223057447_Oct_2023.pdf
+310223057447_Oct_2023
+(499,)
+ID: 499
+Data with bill_no 'Jodhpur_310223057447_Oct_2023.pdf' already exists. Skipping insert.
+No more data
+310431031615
+Nov_2023
+2023-10-30
+75584.00
+01/08/2023
+01/10/2023
+7112
+15.00
+
+
+-----------------------------------
+Jodhpur_310431031615_Nov_2023.pdf
+310431031615_Nov_2023
+(485,)
+ID: 485
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'power_load' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/public/python_scripts/jdvvnl/jd_dataEx_2.py", line 137, in <module>
+    cursor.execute(insert_query, (id_value,bill_no, Bill_date, Bill_amount, C_units,pdf_name, D_load, San_load,year,current_date,'1',month_numeric))
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'power_load' in 'field list'

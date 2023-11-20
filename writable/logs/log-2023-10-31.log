@@ -1,0 +1,126 @@
+ERROR - 2023-10-31 14:12:31 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:31 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:31 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:31 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:31 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:31 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:12:32 --> Unknown column 'app' in 'where clause'
+CRITICAL - 2023-10-31 14:12:32 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->start_assessment('198', 'app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'icons', 'pdf.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'portrait', 'small', 'avatar-s-8.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'portrait', 'small', 'avatar-s-14.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'icons', 'xls.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'portrait', 'small', 'avatar-s-1.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'icons', 'jpg.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'icons', 'doc.png')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-10-31 14:17:03 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and assessment_id=12 order by id desc' at line 1
+CRITICAL - 2023-10-31 14:17:03 --> Call to a member function getRowArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->supplier_view_profile('js', 'jquery-3.2.1.mi...')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-10-31 14:17:04 --> Division by zero
+#0 /var/www/html/app/Controllers/Suppliers_Model.php(1178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Division by zer...', '/var/www/html/a...', 1178, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Suppliers_Model->test_view()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Suppliers_Model))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

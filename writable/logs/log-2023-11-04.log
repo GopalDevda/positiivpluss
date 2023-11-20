@@ -1,0 +1,91 @@
+CRITICAL - 2023-11-04 04:24:14 --> Invalid file: admin/login.php
+#0 /var/www/html/system/View/View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/login.php')
+#1 /var/www/html/system/Common.php(1271): CodeIgniter\View\View->render('admin/login', Array, true)
+#2 /var/www/html/app/Controllers/Admin.php(26): view('admin/login')
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Admin->index()
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-04 11:10:08 --> in_array() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'in_array() expe...', '/var/www/html/a...', 149, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(149): in_array('2632', NULL)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->companydata_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-11-04 11:10:10 --> in_array() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'in_array() expe...', '/var/www/html/a...', 149, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(149): in_array('16113', NULL)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->companydata_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-11-04 11:10:12 --> in_array() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'in_array() expe...', '/var/www/html/a...', 149, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(149): in_array('2632', NULL)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->companydata_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-11-04 11:10:21 --> in_array() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'in_array() expe...', '/var/www/html/a...', 149, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(149): in_array('251781', NULL)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->companydata_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-11-04 11:10:29 --> in_array() expects parameter 2 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'in_array() expe...', '/var/www/html/a...', 149, Array)
+#1 /var/www/html/app/Controllers/MarketPlace.php(149): in_array('251781', NULL)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->companydata_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-04 15:54:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-11-04 15:54:37 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(217): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U15133HP2020PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-11-04 15:55:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-11-04 15:55:41 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(217): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U15133HP2020PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-11-04 15:56:26 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-11-04 15:56:26 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(217): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U01132AR2012PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-04 19:04:16 --> Invalid file: front/login.php
+#0 /var/www/html/system/View/View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/login.php')
+#1 /var/www/html/system/Common.php(1271): CodeIgniter\View\View->render('front/login', Array, true)
+#2 /var/www/html/app/Controllers/Home.php(114): view('front/login')
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Home->login()
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

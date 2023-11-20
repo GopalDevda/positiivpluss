@@ -1,0 +1,33 @@
+CRITICAL - 2023-11-03 11:10:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 11:10:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 12:45:10 --> Too few arguments to function App\Controllers\Controlwork::weaitage_indicator(), 0 passed in /var/www/html/system/CodeIgniter.php on line 928 and exactly 1 expected
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Controlwork->weaitage_indicator()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Controlwork))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-11-03 14:20:12 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-03 17:11:37 --> Class 'App\Controllers\EmailModel' not found
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->connect_with_us()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

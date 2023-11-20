@@ -1,0 +1,39 @@
+CRITICAL - 2023-11-14 06:10:05 --> Invalid file: admin/login.php
+#0 /var/www/html/system/View/View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/login.php')
+#1 /var/www/html/system/Common.php(1190): CodeIgniter\View\View->render('admin/login', Array, true)
+#2 /var/www/html/app/Controllers/Admin.php(26): view('admin/login')
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Admin->index()
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/public/index.php(39): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-14 15:20:25 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/Assessment.php(1655): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 1655, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Assessment->getalladvanceAnswers('2')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Assessment))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/public/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-14 15:20:26 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/Assessment.php(1655): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 1655, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Assessment->getalladvanceAnswers('2')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Assessment))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/public/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-14 15:20:28 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/Assessment.php(1655): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 1655, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Assessment->getalladvanceAnswers('2')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Assessment))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/public/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-14 18:28:00 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2023-11-14 18:33:16 --> Column 'for_y' cannot be null
+ERROR - 2023-11-14 18:34:19 --> Column 'for_y' cannot be null
+ERROR - 2023-11-14 18:37:37 --> Column 'for_y' cannot be null
+ERROR - 2023-11-14 18:37:53 --> Column 'for_y' cannot be null
+ERROR - 2023-11-14 18:46:26 --> Column 'for_y' cannot be null
+ERROR - 2023-11-14 18:48:29 --> Column 'for_y' cannot be null

@@ -1,0 +1,1395 @@
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+112.0
+N3372044096
+OCT_2023
+2023-10-10
+67520.00
+4,729.2
+26.72
+0.81
+-----------------------------------
+San_load1: 112.0 Data Type: <class 'str'>
+Acc_no: N3372044096 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-10 Data Type: <class 'str'>
+Bill_amount: 67520.00 Data Type: <class 'str'>
+C_units: 4,729.2 Data Type: <class 'str'>
+D_load: 26.72 Data Type: <class 'str'>
+P_F: 0.81 Data Type: <class 'str'>
+step 3
+N3372044096_OCT-2023
+mpPaschim_N3372044096_OCT_2023
+-----------------------------------
+(204,)
+ID: 204
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372044096.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3372044096_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372044096.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3282001571
+SEP_2023
+2023-09-24
+0.00
+4,143
+19.68
+0.99
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3282001571 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-24 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 4,143 Data Type: <class 'str'>
+D_load: 19.68 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3282001571_SEP-2023
+mpPaschim_N3282001571_SEP_2023
+-----------------------------------
+(205,)
+ID: 205
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3282001571.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3282001571_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3282001571.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+40.0
+N3967024725
+SEP_2023
+2023-09-28
+0.00
+3,609.2
+15.72
+0.64
+-----------------------------------
+San_load1: 40.0 Data Type: <class 'str'>
+Acc_no: N3967024725 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-28 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 3,609.2 Data Type: <class 'str'>
+D_load: 15.72 Data Type: <class 'str'>
+P_F: 0.64 Data Type: <class 'str'>
+step 3
+N3967024725_SEP-2023
+mpPaschim_N3967024725_SEP_2023
+-----------------------------------
+(206,)
+ID: 206
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3967024725.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3967024725_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3967024725.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+48.0
+N3541010512
+OCT_2023
+2023-10-09
+43688.00
+3,954.6
+23.2
+0.94
+-----------------------------------
+San_load1: 48.0 Data Type: <class 'str'>
+Acc_no: N3541010512 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-09 Data Type: <class 'str'>
+Bill_amount: 43688.00 Data Type: <class 'str'>
+C_units: 3,954.6 Data Type: <class 'str'>
+D_load: 23.2 Data Type: <class 'str'>
+P_F: 0.94 Data Type: <class 'str'>
+step 3
+N3541010512_OCT-2023
+mpPaschim_N3541010512_OCT_2023
+-----------------------------------
+(207,)
+ID: 207
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3541010512.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3541010512_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3541010512.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+30.0
+N3291021817
+SEP_2023
+2023-09-23
+0.00
+3,257
+17.7
+0.97
+-----------------------------------
+San_load1: 30.0 Data Type: <class 'str'>
+Acc_no: N3291021817 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-23 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 3,257 Data Type: <class 'str'>
+D_load: 17.7 Data Type: <class 'str'>
+P_F: 0.97 Data Type: <class 'str'>
+step 3
+N3291021817_SEP-2023
+mpPaschim_N3291021817_SEP_2023
+-----------------------------------
+(208,)
+ID: 208
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3291021817.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3291021817_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3291021817.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+30.0
+N3746017031
+SEP_2023
+2023-10-04
+0.00
+3,816.06
+16.92
+0.97
+-----------------------------------
+San_load1: 30.0 Data Type: <class 'str'>
+Acc_no: N3746017031 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-10-04 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 3,816.06 Data Type: <class 'str'>
+D_load: 16.92 Data Type: <class 'str'>
+P_F: 0.97 Data Type: <class 'str'>
+step 3
+N3746017031_SEP-2023
+mpPaschim_N3746017031_SEP_2023
+-----------------------------------
+(209,)
+ID: 209
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3746017031.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3746017031_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3746017031.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3837011506
+SEP_2023
+2023-10-01
+0.00
+1,650
+14.6
+0.8
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3837011506 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-10-01 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 1,650 Data Type: <class 'str'>
+D_load: 14.6 Data Type: <class 'str'>
+P_F: 0.8 Data Type: <class 'str'>
+step 3
+N3837011506_SEP-2023
+mpPaschim_N3837011506_SEP_2023
+-----------------------------------
+(210,)
+ID: 210
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3837011506.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3837011506_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3837011506.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+40.0
+N3975007516
+SEP_2023
+2023-09-27
+0.00
+2,704
+11.96
+0.99
+-----------------------------------
+San_load1: 40.0 Data Type: <class 'str'>
+Acc_no: N3975007516 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-27 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 2,704 Data Type: <class 'str'>
+D_load: 11.96 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3975007516_SEP-2023
+mpPaschim_N3975007516_SEP_2023
+-----------------------------------
+(212,)
+ID: 212
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3975007516.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3975007516_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3975007516.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3531037606
+OCT_2023
+2023-10-10
+30743.00
+3,047.8
+12.16
+0.93
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3531037606 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-10 Data Type: <class 'str'>
+Bill_amount: 30743.00 Data Type: <class 'str'>
+C_units: 3,047.8 Data Type: <class 'str'>
+D_load: 12.16 Data Type: <class 'str'>
+P_F: 0.93 Data Type: <class 'str'>
+step 3
+N3531037606_OCT-2023
+mpPaschim_N3531037606_OCT_2023
+-----------------------------------
+(213,)
+ID: 213
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3531037606.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3531037606_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3531037606.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+22.0
+N3262023170
+OCT_2023
+2023-10-10
+25279.00
+2,414.396
+9.44
+0.89
+-----------------------------------
+San_load1: 22.0 Data Type: <class 'str'>
+Acc_no: N3262023170 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-10 Data Type: <class 'str'>
+Bill_amount: 25279.00 Data Type: <class 'str'>
+C_units: 2,414.396 Data Type: <class 'str'>
+D_load: 9.44 Data Type: <class 'str'>
+P_F: 0.89 Data Type: <class 'str'>
+step 3
+N3262023170_OCT-2023
+mpPaschim_N3262023170_OCT_2023
+-----------------------------------
+(214,)
+ID: 214
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3262023170.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3262023170_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3262023170.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+38.0
+N3211005783
+SEP_2023
+2023-09-28
+0.00
+3,395
+15.92
+0.99
+-----------------------------------
+San_load1: 38.0 Data Type: <class 'str'>
+Acc_no: N3211005783 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-28 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 3,395 Data Type: <class 'str'>
+D_load: 15.92 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3211005783_SEP-2023
+mpPaschim_N3211005783_SEP_2023
+-----------------------------------
+(215,)
+ID: 215
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3211005783.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3211005783_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3211005783.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3243011994
+OCT_2023
+2023-10-07
+411.00
+50
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3243011994 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-07 Data Type: <class 'str'>
+Bill_amount: 411.00 Data Type: <class 'str'>
+C_units: 50 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3243011994_OCT-2023
+mpPaschim_N3243011994_OCT_2023
+-----------------------------------
+(217,)
+ID: 217
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3243011994.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3243011994_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3243011994.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3634020228
+SEP_2023
+2023-09-25
+0.00
+91
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3634020228 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-25 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 91 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3634020228_SEP-2023
+mpPaschim_N3634020228_SEP_2023
+-----------------------------------
+(218,)
+ID: 218
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3634020228.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3634020228_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3634020228.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3637004931
+OCT_2023
+2023-10-16
+1061.00
+107
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3637004931 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-16 Data Type: <class 'str'>
+Bill_amount: 1061.00 Data Type: <class 'str'>
+C_units: 107 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3637004931_OCT-2023
+mpPaschim_N3637004931_OCT_2023
+-----------------------------------
+(219,)
+ID: 219
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3637004931.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3637004931_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3637004931.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+45.0
+N3472039787
+SEP_2023
+2023-10-07
+30180.00
+2,261.17
+10.331
+0.92
+-----------------------------------
+San_load1: 45.0 Data Type: <class 'str'>
+Acc_no: N3472039787 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-10-07 Data Type: <class 'str'>
+Bill_amount: 30180.00 Data Type: <class 'str'>
+C_units: 2,261.17 Data Type: <class 'str'>
+D_load: 10.331 Data Type: <class 'str'>
+P_F: 0.92 Data Type: <class 'str'>
+step 3
+N3472039787_SEP-2023
+mpPaschim_N3472039787_SEP_2023
+-----------------------------------
+(220,)
+ID: 220
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3472039787.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3472039787_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3472039787.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+35.0
+N3373012357
+OCT_2023
+2023-10-13
+17541.00
+1,759
+8
+0.99
+-----------------------------------
+San_load1: 35.0 Data Type: <class 'str'>
+Acc_no: N3373012357 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-13 Data Type: <class 'str'>
+Bill_amount: 17541.00 Data Type: <class 'str'>
+C_units: 1,759 Data Type: <class 'str'>
+D_load: 8 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3373012357_OCT-2023
+mpPaschim_N3373012357_OCT_2023
+-----------------------------------
+(221,)
+ID: 221
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3373012357.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3373012357_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3373012357.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3112010394
+OCT_2023
+2023-10-02
+0.00
+130
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3112010394 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-02 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 130 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3112010394_OCT-2023
+mpPaschim_N3112010394_OCT_2023
+-----------------------------------
+(222,)
+ID: 222
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3112010394.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3112010394_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3112010394.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3244007971
+OCT_2023
+2023-10-04
+0.00
+189
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3244007971 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-04 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 189 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3244007971_OCT-2023
+mpPaschim_N3244007971_OCT_2023
+-----------------------------------
+(223,)
+ID: 223
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3244007971.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3244007971_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3244007971.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3158007432
+OCT_2023
+2023-10-06
+538.00
+150
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3158007432 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-06 Data Type: <class 'str'>
+Bill_amount: 538.00 Data Type: <class 'str'>
+C_units: 150 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3158007432_OCT-2023
+mpPaschim_N3158007432_OCT_2023
+-----------------------------------
+(224,)
+ID: 224
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3158007432.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3158007432_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3158007432.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+40.0
+N3262031258
+OCT_2023
+2023-10-13
+33720.00
+3,014
+17.2
+0.96
+-----------------------------------
+San_load1: 40.0 Data Type: <class 'str'>
+Acc_no: N3262031258 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-13 Data Type: <class 'str'>
+Bill_amount: 33720.00 Data Type: <class 'str'>
+C_units: 3,014 Data Type: <class 'str'>
+D_load: 17.2 Data Type: <class 'str'>
+P_F: 0.96 Data Type: <class 'str'>
+step 3
+N3262031258_OCT-2023
+mpPaschim_N3262031258_OCT_2023
+-----------------------------------
+(225,)
+ID: 225
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3262031258.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3262031258_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3262031258.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+34.0
+N3531033090
+OCT_2023
+2023-10-10
+29710.00
+2,739.4
+14.36
+0.99
+-----------------------------------
+San_load1: 34.0 Data Type: <class 'str'>
+Acc_no: N3531033090 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-10 Data Type: <class 'str'>
+Bill_amount: 29710.00 Data Type: <class 'str'>
+C_units: 2,739.4 Data Type: <class 'str'>
+D_load: 14.36 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3531033090_OCT-2023
+mpPaschim_N3531033090_OCT_2023
+-----------------------------------
+(226,)
+ID: 226
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3531033090.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3531033090_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3531033090.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3971022142
+OCT_2023
+2023-10-12
+26784.00
+2,541.48
+19.92
+0.93
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3971022142 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-12 Data Type: <class 'str'>
+Bill_amount: 26784.00 Data Type: <class 'str'>
+C_units: 2,541.48 Data Type: <class 'str'>
+D_load: 19.92 Data Type: <class 'str'>
+P_F: 0.93 Data Type: <class 'str'>
+step 3
+N3971022142_OCT-2023
+mpPaschim_N3971022142_OCT_2023
+-----------------------------------
+(227,)
+ID: 227
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3971022142.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3971022142_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3971022142.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+16.0
+N3541023575
+OCT_2023
+2023-10-09
+15969.00
+1,468
+5.6
+0.85
+-----------------------------------
+San_load1: 16.0 Data Type: <class 'str'>
+Acc_no: N3541023575 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-09 Data Type: <class 'str'>
+Bill_amount: 15969.00 Data Type: <class 'str'>
+C_units: 1,468 Data Type: <class 'str'>
+D_load: 5.6 Data Type: <class 'str'>
+P_F: 0.85 Data Type: <class 'str'>
+step 3
+N3541023575_OCT-2023
+mpPaschim_N3541023575_OCT_2023
+-----------------------------------
+(228,)
+ID: 228
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3541023575.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3541023575_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3541023575.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3688015700
+SEP_2023
+2023-10-03
+0.00
+309
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3688015700 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-10-03 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 309 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3688015700_SEP-2023
+mpPaschim_N3688015700_SEP_2023
+-----------------------------------
+(229,)
+ID: 229
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3688015700.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3688015700_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3688015700.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3109000261
+SEP_2023
+2023-09-23
+1003.00
+53
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3109000261 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-23 Data Type: <class 'str'>
+Bill_amount: 1003.00 Data Type: <class 'str'>
+C_units: 53 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3109000261_SEP-2023
+mpPaschim_N3109000261_SEP_2023
+-----------------------------------
+(230,)
+ID: 230
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3109000261.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3109000261_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3109000261.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+2.0
+N3422007013
+OCT_2023
+2023-10-09
+5550.00
+120
+0
+0
+-----------------------------------
+San_load1: 2.0 Data Type: <class 'str'>
+Acc_no: N3422007013 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-09 Data Type: <class 'str'>
+Bill_amount: 5550.00 Data Type: <class 'str'>
+C_units: 120 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3422007013_OCT-2023
+mpPaschim_N3422007013_OCT_2023
+-----------------------------------
+(231,)
+ID: 231
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3422007013.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3422007013_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3422007013.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+15.0
+N3230014616
+SEP_2023
+2023-09-19
+0.00
+842
+5
+0.84
+-----------------------------------
+San_load1: 15.0 Data Type: <class 'str'>
+Acc_no: N3230014616 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-19 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 842 Data Type: <class 'str'>
+D_load: 5 Data Type: <class 'str'>
+P_F: 0.84 Data Type: <class 'str'>
+step 3
+N3230014616_SEP-2023
+mpPaschim_N3230014616_SEP_2023
+-----------------------------------
+(232,)
+ID: 232
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3230014616.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3230014616_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3230014616.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3733015984
+SEP_2023
+2023-09-29
+0.00
+1,000
+6.8
+0.92
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3733015984 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-29 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 1,000 Data Type: <class 'str'>
+D_load: 6.8 Data Type: <class 'str'>
+P_F: 0.92 Data Type: <class 'str'>
+step 3
+N3733015984_SEP-2023
+mpPaschim_N3733015984_SEP_2023
+-----------------------------------
+(233,)
+ID: 233
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3733015984.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3733015984_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3733015984.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+19.0
+N3710014628
+SEP_2023
+2023-10-01
+0.00
+524
+5.9
+0.98
+-----------------------------------
+San_load1: 19.0 Data Type: <class 'str'>
+Acc_no: N3710014628 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-10-01 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 524 Data Type: <class 'str'>
+D_load: 5.9 Data Type: <class 'str'>
+P_F: 0.98 Data Type: <class 'str'>
+step 3
+N3710014628_SEP-2023
+mpPaschim_N3710014628_SEP_2023
+-----------------------------------
+(235,)
+ID: 235
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3710014628.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3710014628_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3710014628.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+1.0
+N3131025099
+SEP_2023
+2023-09-29
+0.00
+260
+0
+0
+-----------------------------------
+San_load1: 1.0 Data Type: <class 'str'>
+Acc_no: N3131025099 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-29 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 260 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3131025099_SEP-2023
+mpPaschim_N3131025099_SEP_2023
+-----------------------------------
+(236,)
+ID: 236
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3131025099.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3131025099_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3131025099.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3061023290
+SEP_2023
+2023-09-26
+0.00
+1,389
+10.3
+0.99
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3061023290 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-26 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 1,389 Data Type: <class 'str'>
+D_load: 10.3 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3061023290_SEP-2023
+mpPaschim_N3061023290_SEP_2023
+-----------------------------------
+(237,)
+ID: 237
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3061023290.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3061023290_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3061023290.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+20.0
+N3955037211
+OCT_2023
+2023-10-06
+19402.00
+1,824
+4.12
+0.96
+-----------------------------------
+San_load1: 20.0 Data Type: <class 'str'>
+Acc_no: N3955037211 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-06 Data Type: <class 'str'>
+Bill_amount: 19402.00 Data Type: <class 'str'>
+C_units: 1,824 Data Type: <class 'str'>
+D_load: 4.12 Data Type: <class 'str'>
+P_F: 0.96 Data Type: <class 'str'>
+step 3
+N3955037211_OCT-2023
+mpPaschim_N3955037211_OCT_2023
+-----------------------------------
+(238,)
+ID: 238
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3955037211.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3955037211_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3955037211.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+15.0
+N3431018799
+OCT_2023
+2023-10-08
+14393.00
+1,199
+7.44
+0.74
+-----------------------------------
+San_load1: 15.0 Data Type: <class 'str'>
+Acc_no: N3431018799 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-08 Data Type: <class 'str'>
+Bill_amount: 14393.00 Data Type: <class 'str'>
+C_units: 1,199 Data Type: <class 'str'>
+D_load: 7.44 Data Type: <class 'str'>
+P_F: 0.74 Data Type: <class 'str'>
+step 3
+N3431018799_OCT-2023
+mpPaschim_N3431018799_OCT_2023
+-----------------------------------
+(239,)
+ID: 239
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3431018799.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3431018799_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3431018799.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+23.0
+N3163003629
+SEP_2023
+2023-09-25
+0.00
+2,215
+11.03
+0.93
+-----------------------------------
+San_load1: 23.0 Data Type: <class 'str'>
+Acc_no: N3163003629 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-25 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 2,215 Data Type: <class 'str'>
+D_load: 11.03 Data Type: <class 'str'>
+P_F: 0.93 Data Type: <class 'str'>
+step 3
+N3163003629_SEP-2023
+mpPaschim_N3163003629_SEP_2023
+-----------------------------------
+(261,)
+ID: 261
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3163003629.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3163003629_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3163003629.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+30.0
+N3121009009
+OCT_2023
+2023-10-12
+33803.00
+3,464
+8.4
+0.99
+-----------------------------------
+San_load1: 30.0 Data Type: <class 'str'>
+Acc_no: N3121009009 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-12 Data Type: <class 'str'>
+Bill_amount: 33803.00 Data Type: <class 'str'>
+C_units: 3,464 Data Type: <class 'str'>
+D_load: 8.4 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3121009009_OCT-2023
+mpPaschim_N3121009009_OCT_2023
+-----------------------------------
+(263,)
+ID: 263
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3121009009.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3121009009_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3121009009.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+28.0
+N3121016746
+OCT_2023
+2023-10-12
+15199.00
+1,032.145
+7.88
+0.93
+-----------------------------------
+San_load1: 28.0 Data Type: <class 'str'>
+Acc_no: N3121016746 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-12 Data Type: <class 'str'>
+Bill_amount: 15199.00 Data Type: <class 'str'>
+C_units: 1,032.145 Data Type: <class 'str'>
+D_load: 7.88 Data Type: <class 'str'>
+P_F: 0.93 Data Type: <class 'str'>
+step 3
+N3121016746_OCT-2023
+mpPaschim_N3121016746_OCT_2023
+-----------------------------------
+(264,)
+ID: 264
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3121016746.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3121016746_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3121016746.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+22.0
+N3315004469
+SEP_2023
+2023-09-25
+0.00
+1,816
+9.8
+0.97
+-----------------------------------
+San_load1: 22.0 Data Type: <class 'str'>
+Acc_no: N3315004469 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-25 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 1,816 Data Type: <class 'str'>
+D_load: 9.8 Data Type: <class 'str'>
+P_F: 0.97 Data Type: <class 'str'>
+step 3
+N3315004469_SEP-2023
+mpPaschim_N3315004469_SEP_2023
+-----------------------------------
+(265,)
+ID: 265
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3315004469.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3315004469_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3315004469.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+21.0
+N3315008505
+SEP_2023
+2023-09-25
+0.00
+1,681
+11.6
+0.99
+-----------------------------------
+San_load1: 21.0 Data Type: <class 'str'>
+Acc_no: N3315008505 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-25 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 1,681 Data Type: <class 'str'>
+D_load: 11.6 Data Type: <class 'str'>
+P_F: 0.99 Data Type: <class 'str'>
+step 3
+N3315008505_SEP-2023
+mpPaschim_N3315008505_SEP_2023
+-----------------------------------
+(266,)
+ID: 266
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3315008505.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3315008505_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3315008505.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+20.0
+N3327005074
+SEP_2023
+2023-09-28
+0.00
+2,232
+10.42
+0.33
+-----------------------------------
+San_load1: 20.0 Data Type: <class 'str'>
+Acc_no: N3327005074 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-28 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 2,232 Data Type: <class 'str'>
+D_load: 10.42 Data Type: <class 'str'>
+P_F: 0.33 Data Type: <class 'str'>
+step 3
+N3327005074_SEP-2023
+mpPaschim_N3327005074_SEP_2023
+-----------------------------------
+(267,)
+ID: 267
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3327005074.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3327005074_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3327005074.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3327005085
+SEP_2023
+2023-09-28
+0.00
+400
+6.4
+0.98
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3327005085 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-28 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 400 Data Type: <class 'str'>
+D_load: 6.4 Data Type: <class 'str'>
+P_F: 0.98 Data Type: <class 'str'>
+step 3
+N3327005085_SEP-2023
+mpPaschim_N3327005085_SEP_2023
+-----------------------------------
+(268,)
+ID: 268
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3327005085.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3327005085_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3327005085.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+25.0
+N3796008469
+OCT_2023
+2023-10-12
+22129.00
+2,019
+2.4
+0.97
+-----------------------------------
+San_load1: 25.0 Data Type: <class 'str'>
+Acc_no: N3796008469 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-12 Data Type: <class 'str'>
+Bill_amount: 22129.00 Data Type: <class 'str'>
+C_units: 2,019 Data Type: <class 'str'>
+D_load: 2.4 Data Type: <class 'str'>
+P_F: 0.97 Data Type: <class 'str'>
+step 3
+N3796008469_OCT-2023
+mpPaschim_N3796008469_OCT_2023
+-----------------------------------
+(269,)
+ID: 269
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3796008469.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3796008469_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3796008469.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+28.0
+N3796012322
+OCT_2023
+2023-10-12
+21578.00
+1,904
+7.15
+0.98
+-----------------------------------
+San_load1: 28.0 Data Type: <class 'str'>
+Acc_no: N3796012322 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-12 Data Type: <class 'str'>
+Bill_amount: 21578.00 Data Type: <class 'str'>
+C_units: 1,904 Data Type: <class 'str'>
+D_load: 7.15 Data Type: <class 'str'>
+P_F: 0.98 Data Type: <class 'str'>
+step 3
+N3796012322_OCT-2023
+mpPaschim_N3796012322_OCT_2023
+-----------------------------------
+(270,)
+ID: 270
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3796012322.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3796012322_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3796012322.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+133.0
+N3372026761
+OCT_2023
+2023-10-08
+98158.00
+9,128.4
+42.84
+0.97
+-----------------------------------
+San_load1: 133.0 Data Type: <class 'str'>
+Acc_no: N3372026761 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-08 Data Type: <class 'str'>
+Bill_amount: 98158.00 Data Type: <class 'str'>
+C_units: 9,128.4 Data Type: <class 'str'>
+D_load: 42.84 Data Type: <class 'str'>
+P_F: 0.97 Data Type: <class 'str'>
+step 3
+N3372026761_OCT-2023
+mpPaschim_N3372026761_OCT_2023
+-----------------------------------
+(271,)
+ID: 271
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372026761.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3372026761_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372026761.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+55.0
+N3372027287
+OCT_2023
+2023-10-08
+39415.00
+2,876.8
+21.8
+0.74
+-----------------------------------
+San_load1: 55.0 Data Type: <class 'str'>
+Acc_no: N3372027287 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-08 Data Type: <class 'str'>
+Bill_amount: 39415.00 Data Type: <class 'str'>
+C_units: 2,876.8 Data Type: <class 'str'>
+D_load: 21.8 Data Type: <class 'str'>
+P_F: 0.74 Data Type: <class 'str'>
+step 3
+N3372027287_OCT-2023
+mpPaschim_N3372027287_OCT_2023
+-----------------------------------
+(272,)
+ID: 272
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372027287.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3372027287_OCT_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3372027287.pdf' not found.
+["9"] <class 'str'>
+Month: Sep
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+2.0
+N3520013516
+SEP_2023
+2023-09-25
+0.00
+72
+0
+0
+-----------------------------------
+San_load1: 2.0 Data Type: <class 'str'>
+Acc_no: N3520013516 Data Type: <class 'str'>
+rename_month: SEP_2023 Data Type: <class 'str'>
+output_date: 2023-09-25 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 72 Data Type: <class 'str'>
+D_load: 0 Data Type: <class 'str'>
+P_F: 0 Data Type: <class 'str'>
+step 3
+N3520013516_SEP-2023
+mpPaschim_N3520013516_SEP_2023
+-----------------------------------
+(505,)
+ID: 505
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3520013516.pdf' renamed to '/var/www/html/public/uploads/pdfElectricity/mpPaschim_N3520013516_SEP_2023.pdf'.
+File '/var/www/html/public/python_scripts/MP/mp_paschim/download/N3520013516.pdf' not found.
+["10"] <class 'str'>
+Month: Oct
+Year: 2023
+Data type of Month: <class 'str'>
+Data type of Year: <class 'str'>
+112.0
+N3372044096
+OCT_2023
+2023-10-10
+0.00
+4,729.2
+26.72
+0.81
+-----------------------------------
+San_load1: 112.0 Data Type: <class 'str'>
+Acc_no: N3372044096 Data Type: <class 'str'>
+rename_month: OCT_2023 Data Type: <class 'str'>
+output_date: 2023-10-10 Data Type: <class 'str'>
+Bill_amount: 0.00 Data Type: <class 'str'>
+C_units: 4,729.2 Data Type: <class 'str'>
+D_load: 26.72 Data Type: <class 'str'>
+P_F: 0.81 Data Type: <class 'str'>
+step 3
+N3372044096_OCT-2023
+mpPaschim_N3372044096_OCT_2023
+-----------------------------------
+(204,)
+ID: 204
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Unknown column 'power_load' in 'field list'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/html/public/python_scripts/MP/mp_paschim/dataEX_mpPaschim.py", line 153, in <module>
+    cursor.execute(insert_query, (id_value,bill_no, output_date, Bill_amount, C_units,pdf_file, D_load,year, San_load1,month_numeric,current_date,'1'))
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'power_load' in 'field list'

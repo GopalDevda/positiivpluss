@@ -1,0 +1,480 @@
+ERROR - 2023-10-30 13:17:49 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 13:17:49 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 13:18:04 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 13:18:04 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 13:18:05 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 13:18:05 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 13:18:14 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 13:18:14 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 13:18:57 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 13:18:57 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:23:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-30 14:23:15 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/SupplierModule.php(1286): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\SupplierModule->getSupplierModuleBrandItemByRole('10', '1')
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SupplierModule))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:00 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:00 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:00 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:00 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:01 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:01 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:02 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:02 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:02 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:02 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:03 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:03 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:03 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:03 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:17 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:17 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:34 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:34 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:36 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:36 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:42 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:42 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:44 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:44 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:45 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:45 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:45 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:45 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:46 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:46 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:46 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:46 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:56 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:56 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:34:57 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:34:57 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:35:03 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:35:03 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:35:04 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:35:04 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:35:04 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:35:04 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:35:06 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:35:06 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:35:25 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:35:25 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:37:00 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:37:00 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(168): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:06 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:06 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:07 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:07 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:08 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:08 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:08 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:08 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:09 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:09 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:09 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:09 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:11 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:11 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:12 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:12 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:12 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:12 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:13 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:13 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:13 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:13 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:14 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:14 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:15 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:15 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:16 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:16 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:17 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:17 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:17 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:17 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:18 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:18 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:18 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:18 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(172): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:19 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:19 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(171): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:21 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:21 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(171): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 14:39:31 --> Table 'positiiv_db.all_company_data' doesn't exist
+CRITICAL - 2023-10-30 14:39:31 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(500, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(171): CodeIgniter\BaseModel->findAll(500)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-10-30 16:50:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-30 16:50:48 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(264): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U28113GJ2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-30 17:14:08 --> Table 'positiiv_db.credit_package' doesn't exist
+CRITICAL - 2023-10-30 17:14:08 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Controllers/Credit_package.php(21): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Credit_package->index()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Credit_package))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

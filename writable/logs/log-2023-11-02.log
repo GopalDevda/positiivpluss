@@ -1,0 +1,1076 @@
+CRITICAL - 2023-11-02 02:18:03 --> Invalid file: admin/login.php
+#0 /var/www/html/system/View/View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/login.php')
+#1 /var/www/html/system/Common.php(1271): CodeIgniter\View\View->render('admin/login', Array, true)
+#2 /var/www/html/app/Controllers/Admin.php(26): view('admin/login')
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\Admin->index()
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-02 10:53:38 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 10:53:39 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 10:53:40 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 10:54:12 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 10:54:14 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 10:54:14 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 11:05:28 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 11:05:29 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 11:19:28 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 11:19:28 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 11:33:05 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(133): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 133, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 13:00:10 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 136, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-02 13:02:10 --> Connection was killed
+CRITICAL - 2023-11-02 13:02:10 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 13:02:11 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:11 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:12 --> Server shutdown in progress
+CRITICAL - 2023-11-02 13:02:12 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#1 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#2 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#3 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#4 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2023-11-02 13:02:12 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:02:51 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:02:51 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:07 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:07 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:14 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:14 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:14 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:15 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:15 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:22 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:22 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:22 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:23 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:24 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:24 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:25 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:25 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:29 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:29 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:29 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:29 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:30 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:30 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:31 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:31 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-02 13:03:31 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-11-02 13:03:31 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT *, `all_...', Array, false)
+#2 /var/www/html/system/Model.php(197): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(10, 0)
+#4 /var/www/html/app/Controllers/MarketPlace.php(112): CodeIgniter\BaseModel->findAll(10)
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-02 14:07:33 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 136, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 14:07:34 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 136, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 14:07:35 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 136, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-02 14:15:32 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:15:32 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-Z3L5ANYE1 xmR43mK61VTL5aTmMRoe
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:20:48 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:20:48 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-00GI3KYE1 z4KuX157ndjd1i5dKjoK
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:22:23 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:22:23 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-2960XJZE1 w2a1clnmX1kHz9FvdqL4
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:31:15 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:31:15 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-9BOUQ7OE1 rUoSVf9DexZnBy19jR01
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:31:17 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:31:17 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-N8E5RHOE1 NMjKhHWbby2uh5kq5Z22
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:31:19 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:31:19 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-NNQM0N2F1 nAW3hM70qw5PwVQCnW2t
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+CRITICAL - 2023-11-02 14:46:38 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 14:46:42 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-02 14:49:16 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:49:16 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-DBZ8KL2F1 XvaoHMEXWJZUtDY4vsby
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:58:16 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:58:16 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-KJQDOQ3F1 0ScEkL8o2m6POr719fm0
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+ERROR - 2023-11-02 14:58:19 --> Email: Unable to send email using PHP SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-02 14:58:19 --> 220 email-smtp.amazonaws.com ESMTP SimpleEmailService-d-KJQDOQ3F1 hOkj1030GyPjFfq6WVIN
+
+hello: 250-email-smtp.amazonaws.com
+250-8BITMIME
+250-AUTH PLAIN LOGIN
+250 Ok
+
+from: 250 Ok
+
+to: 250 Ok
+
+data: 354 End data with <CR><LF>.<CR><LF>
+
+554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+quit: 221 Bye
+
+The following SMTP error was encountered: 554 Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: PositiivPlus <info@positiivplus.io>, <info@positiivplus.io>, info@positiivplus.io
+
+CRITICAL - 2023-11-02 15:15:36 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(328): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:18:36 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(328): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:18:40 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(328): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:22:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:23:43 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:32:05 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 15:32:09 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 15:34:36 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 15:34:42 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 15:34:43 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 15:35:43 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:44 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:45 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:45 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:46 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:48 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:48 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:48 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:48 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:48 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:49 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:35:49 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:36:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:36:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:36:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:36:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:36:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(330): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:44:26 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(331): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:44:38 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(331): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:46:25 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(331): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 15:46:28 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(331): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 16:31:17 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-11-02 18:29:04 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:29:04 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:29:46 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:29:46 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:29:49 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:29:49 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:30:30 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:30:30 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:31:02 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:31:02 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:31:07 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:31:07 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2023-11-02 18:31:09 --> Can't find FULLTEXT index matching the column list
+CRITICAL - 2023-11-02 18:31:09 --> Call to a member function getResultArray() on bool
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-11-02 18:35:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(335): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 18:37:28 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(335): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 18:38:17 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(335): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 18:47:41 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(338): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 18:49:33 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(338): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 18:52:24 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 19:02:30 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::set() must be of the type string or null, object given, called in /var/www/html/system/Model.php on line 256
+#0 /var/www/html/system/Model.php(256): CodeIgniter\Database\BaseBuilder->set('email', Object(CodeIgniter\Email\Email), NULL)
+#1 /var/www/html/system/BaseModel.php(774): CodeIgniter\Model->doInsert(Array)
+#2 /var/www/html/system/Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#3 /var/www/html/app/Controllers/MarketPlace.php(338): CodeIgniter\Model->insert(Array)
+#4 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->claim_profile()
+#5 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#6 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-11-02 19:04:40 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 19:04:41 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-11-02 19:04:42 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 127, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

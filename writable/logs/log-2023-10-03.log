@@ -1,0 +1,154 @@
+ERROR - 2023-10-03 19:52:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 19:52:17 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U64100HR2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 19:52:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 19:52:49 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U64100HR2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 19:53:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 19:53:11 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U64100HR2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 19:53:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 19:53:23 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U64100HR2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 19:53:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 19:53:25 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U64100HR2014PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:41:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:41:57 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:42:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:42:39 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:43:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:43:55 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:44:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:44:09 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:49:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:49:38 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:51:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:51:59 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(233): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:57:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:57:45 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:57:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:57:47 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-10-03 20:57:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND `status` = 1' at line 3
+CRITICAL - 2023-10-03 20:57:49 --> Call to a member function getResult() on bool
+#0 /var/www/html/system/BaseModel.php(603): CodeIgniter\Model->doFindAll(0, 0)
+#1 /var/www/html/app/Helpers/menu_helper.php(94): CodeIgniter\BaseModel->findAll()
+#2 /var/www/html/app/Controllers/MarketPlace.php(273): SidebarData()
+#3 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data_api('U80904MP2013PTC...')
+#4 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#5 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

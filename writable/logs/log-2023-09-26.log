@@ -1,0 +1,29 @@
+ERROR - 2023-09-26 17:36:29 --> MySQL server has gone away
+ERROR - 2023-09-26 17:36:29 --> MySQL server has gone away
+CRITICAL - 2023-09-26 17:36:29 --> Call to a member function getFirstRow() on bool
+#0 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#1 /var/www/html/app/Views/brand/layout/master-page.php(152): CodeIgniter\BaseModel->first()
+#2 /var/www/html/system/View/View.php(230): include('/var/www/html/a...')
+#3 /var/www/html/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /var/www/html/system/View/View.php(246): CodeIgniter\View\View->render('brand/layout/ma...', Array, true)
+#5 /var/www/html/system/Common.php(1271): CodeIgniter\View\View->render('brand/companyPr...', Array, true)
+#6 /var/www/html/app/Controllers/MarketPlace.php(311): view('brand/companyPr...', Array)
+#7 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('app-assets', 'images', 'portrait', 'small', 'avatar-s-6.jpg')
+#8 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#9 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2023-09-26 17:36:29 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-26 17:36:29 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Helpers/menu_helper.php(76): CodeIgniter\BaseModel->first()
+#5 /var/www/html/app/Controllers/MarketPlace.php(211): SidebarData()
+#6 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->company_data('app-assets', 'images', 'icons', 'pdf.png')
+#7 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#8 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

@@ -1,0 +1,200 @@
+CRITICAL - 2023-09-18 13:33:44 --> Call to undefined method App\Models\madhypradesh::getNext
+#0 /var/www/html/app/Controllers/MarketPlace.php(84): CodeIgniter\Model->__call('getNext', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-18 13:33:53 --> Call to undefined method App\Models\madhypradesh::getNext
+#0 /var/www/html/app/Controllers/MarketPlace.php(84): CodeIgniter\Model->__call('getNext', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-18 13:34:22 --> Call to undefined method App\Models\madhypradesh::getNext
+#0 /var/www/html/app/Controllers/MarketPlace.php(84): CodeIgniter\Model->__call('getNext', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-18 13:34:41 --> Call to undefined method App\Models\madhypradesh::getNext
+#0 /var/www/html/app/Controllers/MarketPlace.php(84): CodeIgniter\Model->__call('getNext', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-18 13:34:50 --> Call to undefined method CodeIgniter\Pager\Pager::getNext()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 13:34:59 --> Call to undefined method CodeIgniter\Pager\Pager::getNext()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 13:35:52 --> Call to undefined method CodeIgniter\Pager\Pager::getNextPage()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 13:36:36 --> Call to undefined method App\Models\madhypradesh::getNextPage
+#0 /var/www/html/app/Controllers/MarketPlace.php(84): CodeIgniter\Model->__call('getNextPage', Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-09-18 13:38:23 --> Call to undefined method CodeIgniter\Pager\Pager::getNextPage()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 13:40:39 --> Call to undefined method CodeIgniter\Pager\Pager::hasNext()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 13:40:52 --> Call to undefined method CodeIgniter\Pager\Pager::hasNext()
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 15:15:34 --> Cannot use object of type stdClass as array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('man')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 15:15:34 --> Cannot use object of type stdClass as array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('mana')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 15:15:34 --> Cannot use object of type stdClass as array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('manal')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 15:16:13 --> Cannot use object of type stdClass as array
+#0 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api('manal')
+#1 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#2 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-09-18 15:51:53 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(118): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 118, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-09-18 15:51:53 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:53 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:53 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:54 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:54 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:54 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-09-18 15:51:54 --> Error connecting to the database: Connection refused
+CRITICAL - 2023-09-18 15:51:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /var/www/html/system/Database/BaseConnection.php(625): CodeIgniter\Database\BaseConnection->initialize()
+#1 /var/www/html/system/Database/BaseBuilder.php(1881): CodeIgniter\Database\BaseConnection->query('SELECT `supplie...', Array, false)
+#2 /var/www/html/system/Model.php(228): CodeIgniter\Database\BaseBuilder->get()
+#3 /var/www/html/system/BaseModel.php(644): CodeIgniter\Model->doFirst()
+#4 /var/www/html/app/Controllers/MarketPlace.php(38): CodeIgniter\BaseModel->first()
+#5 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->index()
+#6 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#7 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-09-18 15:51:59 --> Invalid argument supplied for foreach()
+#0 /var/www/html/app/Controllers/MarketPlace.php(118): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/var/www/html/a...', 118, Array)
+#1 /var/www/html/system/CodeIgniter.php(928): App\Controllers\MarketPlace->get_data_api()
+#2 /var/www/html/system/CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MarketPlace))
+#3 /var/www/html/system/CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
